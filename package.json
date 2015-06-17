@@ -1,10 +1,10 @@
 {
-  "name": "generator-fe-base",
+  "name": "generator-learnfe",
   "version": "0.1.0",
   "description": "A very basic Yeoman generator for the LearnFrontEnd.io courses",
   "license": "MIT",
   "main": "app/index.js",
-  "repository": "https://github.com/LearnFrontEnd/generator-fe-base",
+  "repository": "https://github.com/LearnFrontEnd/learnfe",
   "author": {
     "name": "Adam Scott",
     "email": "adam@learnfrontend.io",

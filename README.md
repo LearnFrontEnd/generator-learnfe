@@ -1,4 +1,4 @@
-# generator-fe-base [![Build Status](https://secure.travis-ci.org/learnfrontend/generator-learnfe-base.png?branch=master)](https://travis-ci.org/ascott1/generator-learnfe-base)
+# generator-fe-base [![Build Status](https://secure.travis-ci.org/learnfrontend/generator-learnfe-base.png?branch=master)](https://travis-ci.org/ascott1/generator-learnfe)
 
 > A [Yeoman](http://yeoman.io) generator for scaffolding out a simple front-end project
 
@@ -13,7 +13,7 @@ To use the `learnfe` generator, you will need to install Yeoman and the generato
 
 ```bash
 npm install -g yo
-npm install -g generator-fe-base
+npm install -g generator-learnfe
 ```
 
 ## Usage
@@ -27,7 +27,7 @@ mkdir my-new-project && cd $_
 Run the `fe-base` generator in your new directory:
 
 ```bash
-yo fe-base
+yo learnfe
 ```
 
 That's it! You have a basis to build your project from.
