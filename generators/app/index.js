@@ -30,7 +30,7 @@ module.exports = yeoman.generators.Base.extend({
 
   writing: {
     app: function () {
-      mkdirp.sync('./assets/img/');
+      mkdirp.sync('./img/');
 
       var context = {
         site_name: this.props.name
@@ -42,11 +42,11 @@ module.exports = yeoman.generators.Base.extend({
 
       this.fs.copy(
         this.templatePath('_style.css'),
-        this.destinationPath('assets/css/style.css')
+        this.destinationPath('styles/main.css')
       );
       this.fs.copy(
         this.templatePath('_main.js'),
-        this.destinationPath('assets/js/main.js')
+        this.destinationPath('scripts/main.js')
       );
     }
 
