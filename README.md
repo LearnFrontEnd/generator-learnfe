@@ -1,4 +1,4 @@
-# generator-fe-base [![Build Status](https://secure.travis-ci.org/learnfrontend/generator-learnfe-base.png?branch=master)](https://travis-ci.org/ascott1/generator-learnfe)
+# generator-learnfe [![Build Status](https://travis-ci.org/LearnFrontEnd/generator-learnfe.svg?branch=master)](https://travis-ci.org/LearnFrontEnd/generator-learnfe.svg?branch=master)
 
 > A [Yeoman](http://yeoman.io) generator for scaffolding out a simple front-end project
 
