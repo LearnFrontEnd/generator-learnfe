@@ -1,6 +1,6 @@
 {
   "name": "generator-learnfe",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "A very basic Yeoman generator for the LearnFrontEnd.io courses",
   "license": "MIT",
   "main": "app/index.js",

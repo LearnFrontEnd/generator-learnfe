@@ -16,8 +16,8 @@ describe('learnfe-base:app', function () {
   it('creates files', function () {
     assert.file([
       'index.html',
-      'styles/src/main.css',
-      'scripts/src/main.js'
+      'src/styles/main.css',
+      'src/scripts/main.js'
     ]);
   });
 });
